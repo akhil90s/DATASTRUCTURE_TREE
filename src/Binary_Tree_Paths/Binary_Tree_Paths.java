@@ -55,7 +55,8 @@ public class Binary_Tree_Paths {
        
         if (node.right != null)
             helperDFS(node.right, current_path, result);
-
+        
     }
-
+    
+    
 }
